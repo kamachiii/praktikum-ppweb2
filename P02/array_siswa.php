@@ -37,7 +37,7 @@ $ar_siswa = [$ns1, $ns2, $ns3, $ns4];
                     echo '<td>'.$ns['uts'].'</td>';
                     echo '<td>'.$ns['uas'].'</td>';
                     echo '<td>'.$ns['tugas'].'</td>';
-                    echo '<td>'.number_format(($ns['uts'] + $ns['uas'] + $ns['tugas']) / 3, 2).'</td>';
+                    echo '<td>'.number_format(($ns['uts'] + $ns['uas'] + $ns['tugas']) / 3, 2, ".", ",").'</td>';
                     echo '</tr>';
                     $nomor++;
                 }
