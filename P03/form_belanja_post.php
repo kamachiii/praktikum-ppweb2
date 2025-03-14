@@ -82,9 +82,6 @@
 
     <?php
     // MENANGKAP DATA YANG DI-INPUT
-
-use BcMath\Number;
-
     if(isset($_POST['proses'])){
         $customer = $_POST['customer'];
         $produk = $_POST['produk'];
