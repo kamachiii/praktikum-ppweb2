@@ -1,7 +1,7 @@
 # Muhammad Kamil
 
 ## Tentang Saya
-Halo! Nama saya **Muhammad Kamil**. Saya berusia 18 tahun dan saat ini saya adalah seorang junior web developer dan Laravel developer. Saya juga sedang menempuh pendidikan S1 Teknik Informatika di **STT Terpadu Nurul Fikri**. Saya memiliki minat yang besar dalam bidang teknologi dan pengembangan perangkat lunak. Saat ini, saya sedang fokus mempelajari ReactJS. Saya selalu bersemangat untuk belajar hal-hal baru dan mengembangkan keterampilan saya.
+Halo! Nama saya **Muhammad Kamil**. Saya berusia 18 tahun dan saat ini saya adalah seorang junior web developer dan Laravel developer. Sekarang saya sedang menempuh pendidikan S1 Teknik Informatika di **STT Terpadu Nurul Fikri**. Saya memiliki minat yang besar dalam bidang teknologi dan pengembangan perangkat lunak dan selalu bersemangat untuk belajar hal-hal baru dan mengembangkan keterampilan saya.
 
 ## Informasi Pribadi
 - **Nama:** Muhammad Kamil
