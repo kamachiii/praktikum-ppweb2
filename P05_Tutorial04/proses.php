@@ -1,5 +1,6 @@
 <?php
 require_once('Kunjungan.php');
+require_once('JenisKunjungan.php');
 session_start();
 
 if(!isset($_SESSION['bukutamu'])) {
@@ -46,7 +47,7 @@ $daftar_kunjungan = Kunjungan::getAll();
                         <td><?= htmlspecialchars($entry->timestamp); ?> </td>
                         <td><?= htmlspecialchars($entry->fullname); ?> </td>
                         <td><?= htmlspecialchars($entry->email); ?> </td>
-                        <td><?= htmlspecialchars($entry->jenis_kunjungan_id); ?> </td>
+                        <td><?= htmlspecialchars(JenisKunjungan::getById($entry->jenis_kunjungan_id)->display_name); ?> </td>
                     </tr>
                 <?php endforeach; ?>
             </tbody>
